@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\bin\Debug\netcoreapp3.1\Ler-informacoes.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\bin\Debug\netcoreapp3.1\Ler-informacoes.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\bin\Debug\netcoreapp3.1\Ler-informacoes.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\bin\Debug\netcoreapp3.1\Ler-informacoes.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\bin\Debug\netcoreapp3.1\Ler-informacoes.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\bin\Debug\netcoreapp3.1\Ler-informacoes.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\obj\Debug\netcoreapp3.1\Ler-informacoes.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\obj\Debug\netcoreapp3.1\Ler-informacoes.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\obj\Debug\netcoreapp3.1\Ler-informacoes.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\obj\Debug\netcoreapp3.1\Ler-informacoes.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\obj\Debug\netcoreapp3.1\Ler-informacoes.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\obj\Debug\netcoreapp3.1\Ler-informacoes.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Ler-informacoes\obj\Debug\netcoreapp3.1\Ler-informacoes.genruntimeconfig.cache
